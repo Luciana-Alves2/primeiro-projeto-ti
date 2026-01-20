@@ -16,3 +16,12 @@
 ## Autora
 + Luciana Alves Barbosa
 
+# Sobre mim
+
++  Sou profissional em transição de carreira da área administrativa e financeira para Tecnologia da Informação.
+
++  Tenho experiência com organização de dados, controle de informações, relatórios e atendimento ao público, e estou desenvolvendo habilidades em tecnologia com foco em Ciência da Computação e Ciência de Dados.
+
++  Este repositório faz parte do meu aprendizado contínuo e construção de portfólio.
+
+
